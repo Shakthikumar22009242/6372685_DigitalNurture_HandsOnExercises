@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_1\\Week1_Design_Principles_and_Patterns\\code\\code.csproj": {}
+    "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DesignPatternsandPrinciple\\Week1_DPP_2\\code\\code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_1\\Week1_Design_Principles_and_Patterns\\code\\code.csproj": {
+    "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DesignPatternsandPrinciple\\Week1_DPP_2\\code\\code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_1\\Week1_Design_Principles_and_Patterns\\code\\code.csproj",
+        "projectUniqueName": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DesignPatternsandPrinciple\\Week1_DPP_2\\code\\code.csproj",
         "projectName": "code",
-        "projectPath": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_1\\Week1_Design_Principles_and_Patterns\\code\\code.csproj",
+        "projectPath": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DesignPatternsandPrinciple\\Week1_DPP_2\\code\\code.csproj",
         "packagesPath": "C:\\Users\\SEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_1\\Week1_Design_Principles_and_Patterns\\code\\obj\\",
+        "outputPath": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DesignPatternsandPrinciple\\Week1_DPP_2\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEC\\AppData\\Roaming\\NuGet\\NuGet.Config"

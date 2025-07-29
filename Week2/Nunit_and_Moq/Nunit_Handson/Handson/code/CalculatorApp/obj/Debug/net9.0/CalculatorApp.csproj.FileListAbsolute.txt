@@ -1,0 +1,12 @@
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll

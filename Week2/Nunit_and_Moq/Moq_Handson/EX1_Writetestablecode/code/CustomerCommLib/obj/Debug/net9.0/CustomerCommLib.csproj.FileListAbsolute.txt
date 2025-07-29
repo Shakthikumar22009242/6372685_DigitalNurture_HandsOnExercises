@@ -1,0 +1,12 @@
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\SEC\Cognizant_HandsON\6372685_DigitalNurture_HandsOnExercises\Week2\Nunit_and_Moq\Moq_Handson\EX1_Writetestablecode\code\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll

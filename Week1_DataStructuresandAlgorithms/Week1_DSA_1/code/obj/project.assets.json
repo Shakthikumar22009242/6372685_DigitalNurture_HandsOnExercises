@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\code.csproj",
+      "projectUniqueName": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\code.csproj",
       "projectName": "code",
-      "projectPath": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\code.csproj",
+      "projectPath": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\code.csproj",
       "packagesPath": "C:\\Users\\SEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEC\\Cognizant_Week1\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\obj\\",
+      "outputPath": "C:\\Users\\SEC\\Cognizant_HandsON\\6372685_DigitalNurture_HandsOnExercises\\Week1_DataStructuresandAlgorithms\\Week1_DSA_1\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SEC\\AppData\\Roaming\\NuGet\\NuGet.Config"
