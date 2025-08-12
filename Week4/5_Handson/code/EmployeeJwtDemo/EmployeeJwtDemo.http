@@ -1,0 +1,6 @@
+@EmployeeJwtDemo_HostAddress = http://localhost:5125
+
+GET {{EmployeeJwtDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
